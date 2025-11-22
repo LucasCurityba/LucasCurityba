@@ -1,6 +1,6 @@
 ## 👨‍💻Olá! eu sou Lucas Curityba
 
-- 👨‍🎓 Estudante de Programação
+- 👨‍🎓 Estudante de Analise e Desenvolvimento de Software
 - 📖 Estudando Java Script
 - 😀 Pronouns: ele/dele
 
